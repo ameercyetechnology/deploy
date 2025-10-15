@@ -1,4 +1,4 @@
-name: Deploy Java App to EC2
+name: Deploy Java App to EC1
 on:
   push:
     branches:
